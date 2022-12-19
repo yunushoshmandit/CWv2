@@ -1,0 +1,39 @@
+.myrows{
+    border: 3px solid green;
+    padding: 5px;
+}
+.mycols{
+    border: 3px solid red;
+}
+.mycontainer{
+    background-color: aqua;
+}
+#topHeader{
+    border-bottom: 1px solid #ebebeb;
+    
+}
+#topHeader a{
+    color: #34495e;
+    font-weight: 600;
+    font-size: 0.89rem;
+}
+#bottomHeader{
+    justify-content: space-evenly;
+    
+}
+.container-fluid{
+    padding: 0px 0px;
+}
+nav ul li a {
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+.navbar-brand{
+    font-weight: bold;
+}
+.btn btn-success{
+    align-items:flex-end;
+}
+.p-1{
+    justify-content:space-between;
+}
